@@ -1,0 +1,1972 @@
+[
+  {
+    "scanner": [
+      {
+        "id": "cd65ad9b-fad1-47bc-9b3f-45973b911a52",
+        "settings": "Default",
+        "created_at": "2023-08-09T13:38:34.337Z",
+        "updated_at": "2023-08-09T12:44:37.859Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "01cb5511-bfc4-4240-9468-765f7816b6d7",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T17:22:52.648Z",
+        "updated_at": "2023-08-09T16:27:06.237Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "851a0261-0d65-4433-b744-244a395a7f7b",
+        "settings": "Custom",
+        "created_at": "2023-08-09T16:26:33.856Z",
+        "updated_at": "2023-08-09T20:22:13.565Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c9b5a16d-f54e-47b4-89da-96c576c175b2",
+        "settings": "Basic",
+        "created_at": "2023-08-10T04:28:33.170Z",
+        "updated_at": "2023-08-09T11:34:02.411Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f3ceb4af-c352-41a4-8412-08435fc262e4",
+        "settings": "Pro",
+        "created_at": "2023-08-09T13:55:20.619Z",
+        "updated_at": "2023-08-09T22:49:07.059Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "78fda52e-31ca-4e43-a1db-09a9bba68930",
+        "data": "1234",
+        "created_at": "2023-08-09T08:51:32.121Z",
+        "updated_at": "2023-08-09T20:12:13.569Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "23d3259b-57d4-4709-9121-ca8f13d0b059",
+        "data": "5678",
+        "created_at": "2023-08-09T14:31:12.495Z",
+        "updated_at": "2023-08-10T04:47:12.830Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "31692a99-96e2-45b7-83a0-f27a007cb58d",
+        "data": "9012",
+        "created_at": "2023-08-09T20:10:56.029Z",
+        "updated_at": "2023-08-09T16:56:33.286Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0800b192-f121-4efa-bcae-4007c9df019c",
+        "data": "3456",
+        "created_at": "2023-08-09T07:47:32.408Z",
+        "updated_at": "2023-08-10T00:38:07.182Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "26e9e9fc-60a4-43e0-867f-acbadfa9683d",
+        "data": "7890",
+        "created_at": "2023-08-09T12:59:36.370Z",
+        "updated_at": "2023-08-09T08:50:38.686Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "68ba71f5-3588-4a2e-8dd2-71fe77765acb",
+        "settings": "Default",
+        "created_at": "2023-08-09T18:32:18.847Z",
+        "updated_at": "2023-08-09T05:21:32.504Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "26e9520f-80ac-4b36-b183-c87405756880",
+        "settings": "Minimal",
+        "created_at": "2023-08-10T04:23:46.664Z",
+        "updated_at": "2023-08-09T23:18:13.503Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "74d361cc-7ce6-4e58-8d6a-4a4a54d64cb7",
+        "settings": "Detailed",
+        "created_at": "2023-08-09T12:46:34.422Z",
+        "updated_at": "2023-08-09T16:22:55.840Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7e4e0d0a-25a3-45fe-9b4a-9c48c1100179",
+        "settings": "Custom",
+        "created_at": "2023-08-09T17:48:49.015Z",
+        "updated_at": "2023-08-09T13:41:46.436Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b99d578b-a850-4de1-a8a0-137056472b33",
+        "settings": "Basic",
+        "created_at": "2023-08-10T01:34:20.246Z",
+        "updated_at": "2023-08-09T17:08:07.962Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "5f56b9d3-2678-4d6b-9f8b-af9f47feb2bc",
+        "settings": "Enabled",
+        "created_at": "2023-08-09T10:50:15.475Z",
+        "updated_at": "2023-08-09T07:58:49.715Z",
+        "scanner_id": "851a0261-0d65-4433-b744-244a395a7f7b"
+      },
+      {
+        "id": "04b72fea-c2d0-4291-b6c5-6aca1e16be07",
+        "settings": "Disabled",
+        "created_at": "2023-08-09T17:26:08.031Z",
+        "updated_at": "2023-08-09T12:40:05.980Z",
+        "scanner_id": "f3ceb4af-c352-41a4-8412-08435fc262e4"
+      },
+      {
+        "id": "d846889b-0937-444b-9d73-0ee9a4d06c30",
+        "settings": "Critical",
+        "created_at": "2023-08-09T07:57:04.763Z",
+        "updated_at": "2023-08-09T20:08:49.112Z",
+        "scanner_id": "851a0261-0d65-4433-b744-244a395a7f7b"
+      },
+      {
+        "id": "54b6b339-c7ae-41f6-b56d-32b95d330656",
+        "settings": "Normal",
+        "created_at": "2023-08-10T01:39:24.845Z",
+        "updated_at": "2023-08-09T07:06:58.081Z",
+        "scanner_id": "01cb5511-bfc4-4240-9468-765f7816b6d7"
+      },
+      {
+        "id": "cbc3fa0d-3424-4fbe-9357-84b87e60d51f",
+        "settings": "High",
+        "created_at": "2023-08-09T18:55:50.933Z",
+        "updated_at": "2023-08-10T01:04:31.256Z",
+        "scanner_id": "851a0261-0d65-4433-b744-244a395a7f7b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a94896a0-2bca-46a6-b559-53030629a79f",
+        "email": "Jimmie.Shanahan@gmail.com",
+        "firstName": "Tristian",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14611403",
+        "tenantId": null
+      },
+      {
+        "reference": "b3eefe13-49dc-419f-b9b2-ad8c129ca869",
+        "email": "Floy63@yahoo.com",
+        "firstName": "Elliot",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/185.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4b4e721-fae4-4f4d-ab55-a4e3c3c58f5d",
+        "email": "Bertha52@gmail.com",
+        "firstName": "Jerald",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/284.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "20f3f4dd-8137-4026-a05a-60470cff46f7",
+        "email": "Deron_Schiller@yahoo.com",
+        "firstName": "Jamison",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/527.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b8d98a7d-83e2-4324-b222-e339ecb057e7",
+        "email": "Connie85@gmail.com",
+        "firstName": "Clinton",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73331415",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "fd7b40cb-e0d3-4bc6-96fe-fc08caa8244a",
+        "settings": "Default",
+        "created_at": "2023-08-09T23:35:07.390Z",
+        "updated_at": "2023-08-09T16:58:05.737Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ef8d92c6-f9dc-4b77-bd98-54055cda0244",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T07:54:58.350Z",
+        "updated_at": "2023-08-09T05:42:55.864Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2358ade2-4346-4858-b23c-36c3ce5f60df",
+        "settings": "Custom",
+        "created_at": "2023-08-09T21:23:37.256Z",
+        "updated_at": "2023-08-09T16:26:41.743Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b1c0146b-83c2-4d60-b939-096124a0ada7",
+        "settings": "Basic",
+        "created_at": "2023-08-09T11:03:08.573Z",
+        "updated_at": "2023-08-09T05:46:09.992Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1844ee96-783b-4b7c-8bfc-6630839253b8",
+        "settings": "Enhanced",
+        "created_at": "2023-08-09T12:49:40.071Z",
+        "updated_at": "2023-08-09T18:30:11.004Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "9de1d92c-2be6-4845-8a5c-96a2575bac71",
+        "data": "AAPL",
+        "created_at": "2023-08-10T04:26:29.683Z",
+        "updated_at": "2023-08-09T18:10:31.429Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "87c26d5d-0d26-48ce-896c-af8cf1ae3499",
+        "data": "GOOGL",
+        "created_at": "2023-08-10T00:02:36.608Z",
+        "updated_at": "2023-08-09T20:34:52.762Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1c9f3c66-1646-421f-8daf-cd2532cd7f8a",
+        "data": "AMZN",
+        "created_at": "2023-08-09T12:02:19.055Z",
+        "updated_at": "2023-08-09T22:13:57.719Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "452ea380-0b62-496a-b7c6-ae32f8ddf0a6",
+        "data": "MSFT",
+        "created_at": "2023-08-09T17:27:34.969Z",
+        "updated_at": "2023-08-10T02:35:53.064Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "086b75e8-a03d-4b68-a8da-eddeb167aea1",
+        "data": "TSLA",
+        "created_at": "2023-08-09T15:36:35.712Z",
+        "updated_at": "2023-08-09T11:07:56.324Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "b80e9997-ff0e-4133-9706-5101575f5d06",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-09T19:22:00.726Z",
+        "updated_at": "2023-08-09T08:21:15.630Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "63b61de7-5630-464b-bc6d-d50a16fd402e",
+        "settings": "Light Mode",
+        "created_at": "2023-08-09T08:56:53.540Z",
+        "updated_at": "2023-08-10T03:40:28.832Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "893729af-8e5e-4352-b9ca-13cf7ef4f3fb",
+        "settings": "Compact View",
+        "created_at": "2023-08-09T23:43:03.994Z",
+        "updated_at": "2023-08-09T20:24:36.109Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "868223bd-bda3-4ddf-a1e1-cb4983f4a2f3",
+        "settings": "Full Screen",
+        "created_at": "2023-08-09T16:51:56.904Z",
+        "updated_at": "2023-08-10T04:50:43.232Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4e03bd79-ecf8-4be9-b560-1025720af5e5",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T13:55:37.605Z",
+        "updated_at": "2023-08-10T00:15:21.683Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "37482226-4ed4-47f0-8cba-810068efa670",
+        "settings": "Email",
+        "created_at": "2023-08-09T18:18:56.265Z",
+        "updated_at": "2023-08-09T11:23:56.824Z",
+        "scanner_id": "fd7b40cb-e0d3-4bc6-96fe-fc08caa8244a"
+      },
+      {
+        "id": "ca48c1f4-203f-4e96-83eb-0f291aedf40c",
+        "settings": "SMS",
+        "created_at": "2023-08-10T01:20:38.213Z",
+        "updated_at": "2023-08-09T06:35:34.582Z",
+        "scanner_id": "2358ade2-4346-4858-b23c-36c3ce5f60df"
+      },
+      {
+        "id": "6c7bafcf-2935-4eca-a40f-d6ce0ceb0b62",
+        "settings": "Push Notification",
+        "created_at": "2023-08-09T21:29:38.141Z",
+        "updated_at": "2023-08-09T06:18:35.566Z",
+        "scanner_id": "1844ee96-783b-4b7c-8bfc-6630839253b8"
+      },
+      {
+        "id": "d391edf1-d33e-4fe3-992f-49e3fe3c99ae",
+        "settings": "Phone Call",
+        "created_at": "2023-08-09T12:47:01.658Z",
+        "updated_at": "2023-08-09T23:06:35.213Z",
+        "scanner_id": "b1c0146b-83c2-4d60-b939-096124a0ada7"
+      },
+      {
+        "id": "a38a2aa4-5ede-4839-966a-25be65145bf4",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T19:44:48.236Z",
+        "updated_at": "2023-08-10T01:18:49.015Z",
+        "scanner_id": "1844ee96-783b-4b7c-8bfc-6630839253b8"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3aa07d66-bf40-4fc2-bea7-63faf334be24",
+        "email": "Lilla.Haley@yahoo.com",
+        "firstName": "Joy",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99772156",
+        "tenantId": null
+      },
+      {
+        "reference": "109ef2c6-2e97-46dd-9c7f-13b04a85ecd0",
+        "email": "Alessia46@hotmail.com",
+        "firstName": "Morton",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59783054",
+        "tenantId": null
+      },
+      {
+        "reference": "b45a9e52-36a3-4ef9-adbd-d5c3a0a57828",
+        "email": "Alycia.Cruickshank@yahoo.com",
+        "firstName": "Salma",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22104461",
+        "tenantId": null
+      },
+      {
+        "reference": "a4c27c56-6c86-489a-97e4-f3d03607b587",
+        "email": "Kiley15@hotmail.com",
+        "firstName": "Pierce",
+        "lastName": "Lang",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/853.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2476681c-8db7-4967-9b0a-8b3d7de34360",
+        "email": "Katrine51@gmail.com",
+        "firstName": "Elise",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17544283",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "838bdcfd-8d7e-40fa-8253-0c9ce6e8f290",
+        "settings": "Default",
+        "created_at": "2023-08-09T18:45:47.550Z",
+        "updated_at": "2023-08-09T08:07:04.609Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "af3d9c9d-cd98-4efb-8fe5-566095c97927",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T20:31:47.497Z",
+        "updated_at": "2023-08-10T00:22:21.832Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "16932014-6d04-4bf8-98cb-e668d5cd9a42",
+        "settings": "Custom",
+        "created_at": "2023-08-09T06:15:46.085Z",
+        "updated_at": "2023-08-09T08:24:25.609Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "bb35a195-4b91-4006-9f0b-1541b2159cab",
+        "settings": "Basic",
+        "created_at": "2023-08-09T06:08:15.077Z",
+        "updated_at": "2023-08-10T01:18:11.785Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0d915e47-5267-4b4b-b4a2-b993637b0058",
+        "settings": "Enhanced",
+        "created_at": "2023-08-09T18:19:49.494Z",
+        "updated_at": "2023-08-09T11:07:08.154Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "465dd975-d735-42ef-ba73-a5e2e95ea362",
+        "data": "AAPL",
+        "created_at": "2023-08-10T02:49:45.918Z",
+        "updated_at": "2023-08-09T09:08:26.904Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "66af3fd1-d03c-4ae5-9584-90d5e511e31f",
+        "data": "GOOGL",
+        "created_at": "2023-08-09T22:11:09.470Z",
+        "updated_at": "2023-08-10T02:46:53.285Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "46fb323d-79b1-476a-8c91-21fd130bddac",
+        "data": "AMZN",
+        "created_at": "2023-08-09T21:37:28.972Z",
+        "updated_at": "2023-08-09T10:59:52.098Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "418bcbe0-8a75-4391-9b36-413da7015303",
+        "data": "MSFT",
+        "created_at": "2023-08-09T10:21:56.985Z",
+        "updated_at": "2023-08-10T02:14:44.048Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "597530a8-adbb-4764-a30b-3f5e797fe710",
+        "data": "TSLA",
+        "created_at": "2023-08-09T13:49:14.116Z",
+        "updated_at": "2023-08-09T13:11:33.384Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "fb362812-b769-4cb2-8bf9-b89ed27f60b2",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-09T11:22:20.622Z",
+        "updated_at": "2023-08-10T00:19:27.948Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fc598a71-f0f5-4af6-9edd-64668490911f",
+        "settings": "Light Mode",
+        "created_at": "2023-08-09T09:44:49.294Z",
+        "updated_at": "2023-08-10T00:19:24.198Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "69b1a844-abdd-444c-9882-c9b84b5b45a5",
+        "settings": "Compact View",
+        "created_at": "2023-08-09T19:23:30.983Z",
+        "updated_at": "2023-08-10T00:39:30.756Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fb667cd2-a4b2-44c3-ad21-2b971e071208",
+        "settings": "Full Screen",
+        "created_at": "2023-08-09T17:34:15.746Z",
+        "updated_at": "2023-08-09T22:38:18.432Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "af7be8db-f398-4b95-a5ce-46f0985b24e1",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T07:24:31.599Z",
+        "updated_at": "2023-08-09T15:08:32.541Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "c0b6452f-1199-4543-b16c-50a9ef36998b",
+        "settings": "Email",
+        "created_at": "2023-08-09T17:54:08.962Z",
+        "updated_at": "2023-08-09T13:41:38.762Z",
+        "scanner_id": "0d915e47-5267-4b4b-b4a2-b993637b0058"
+      },
+      {
+        "id": "c4a52433-c671-4bbb-9ac8-9bea97dd5008",
+        "settings": "SMS",
+        "created_at": "2023-08-09T07:02:11.807Z",
+        "updated_at": "2023-08-09T17:22:06.103Z",
+        "scanner_id": "16932014-6d04-4bf8-98cb-e668d5cd9a42"
+      },
+      {
+        "id": "e10043e8-1505-473e-8f1e-dfd52091a2e0",
+        "settings": "Push Notification",
+        "created_at": "2023-08-09T21:28:22.910Z",
+        "updated_at": "2023-08-10T02:59:27.918Z",
+        "scanner_id": "bb35a195-4b91-4006-9f0b-1541b2159cab"
+      },
+      {
+        "id": "4a9337e1-7d2b-4f2b-9453-3ee24f9e4c9a",
+        "settings": "Phone Call",
+        "created_at": "2023-08-09T22:04:36.116Z",
+        "updated_at": "2023-08-09T15:29:44.042Z",
+        "scanner_id": "16932014-6d04-4bf8-98cb-e668d5cd9a42"
+      },
+      {
+        "id": "cef39901-0b89-403e-b1f4-ff228dcdbecf",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T21:39:19.104Z",
+        "updated_at": "2023-08-09T08:04:11.360Z",
+        "scanner_id": "838bdcfd-8d7e-40fa-8253-0c9ce6e8f290"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "797365e1-efb2-46fe-a548-a6e6ec900f5c",
+        "email": "Nicola26@hotmail.com",
+        "firstName": "Alexis",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21543443",
+        "tenantId": null
+      },
+      {
+        "reference": "6632e11e-9f22-4ccc-b52e-1f0ab71a3611",
+        "email": "Delaney_Greenholt-Corkery@gmail.com",
+        "firstName": "Meta",
+        "lastName": "Rutherford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42007538",
+        "tenantId": null
+      },
+      {
+        "reference": "4885f813-629e-44c8-8f67-2153b7b5e3d0",
+        "email": "Brian94@yahoo.com",
+        "firstName": "Pansy",
+        "lastName": "Lang",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35353263",
+        "tenantId": null
+      },
+      {
+        "reference": "8aa01da1-8736-4719-ad3f-8b4dbbc48453",
+        "email": "Abby_Mueller96@yahoo.com",
+        "firstName": "Carmel",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72078760",
+        "tenantId": null
+      },
+      {
+        "reference": "861b5877-babd-47a9-8617-ec248e240597",
+        "email": "Alford57@gmail.com",
+        "firstName": "Arlo",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/674.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "da3602d5-fd4d-42e9-bf5f-23c4bb5a4647",
+        "settings": "Default",
+        "created_at": "2023-08-09T06:22:30.573Z",
+        "updated_at": "2023-08-09T15:35:28.517Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "916c03e8-1a0c-4999-a199-4647e2587968",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T18:05:49.520Z",
+        "updated_at": "2023-08-09T23:42:54.448Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "613de590-2a36-4c78-a082-7e47810a9c80",
+        "settings": "Custom",
+        "created_at": "2023-08-09T15:34:00.250Z",
+        "updated_at": "2023-08-09T15:14:01.484Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d60c4584-d2b1-4d7a-8463-4fb3eab8437d",
+        "settings": "Basic",
+        "created_at": "2023-08-09T12:38:37.189Z",
+        "updated_at": "2023-08-09T08:46:14.626Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0f5afd6f-18ec-47a7-88d8-b61ad8b716e4",
+        "settings": "Pro",
+        "created_at": "2023-08-09T15:59:53.221Z",
+        "updated_at": "2023-08-09T23:22:51.682Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "f3cb278f-467d-4494-b95e-08bf4ef9aa1a",
+        "data": "AAPL",
+        "created_at": "2023-08-09T08:46:46.763Z",
+        "updated_at": "2023-08-10T04:55:57.006Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9b3214f7-63ec-406e-a86c-3e0b77f5b93e",
+        "data": "GOOGL",
+        "created_at": "2023-08-09T18:45:02.834Z",
+        "updated_at": "2023-08-10T02:56:13.763Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6c544e2d-79ae-4387-aaae-8418bf630ccc",
+        "data": "AMZN",
+        "created_at": "2023-08-09T20:26:00.339Z",
+        "updated_at": "2023-08-09T21:06:57.281Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f05b465a-81b3-47d7-85e9-cd98fc668e49",
+        "data": "MSFT",
+        "created_at": "2023-08-09T16:24:38.642Z",
+        "updated_at": "2023-08-09T16:16:13.717Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7e6d96c8-332a-48fd-b7a8-97ca388371b7",
+        "data": "TSLA",
+        "created_at": "2023-08-09T21:49:58.506Z",
+        "updated_at": "2023-08-09T17:02:17.868Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "36a9f51a-e4c5-4331-b91a-c04cbaa1666f",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-10T01:26:26.015Z",
+        "updated_at": "2023-08-09T09:48:58.438Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "506f1642-776a-4311-89d2-a299e9409881",
+        "settings": "Light Mode",
+        "created_at": "2023-08-10T02:12:28.870Z",
+        "updated_at": "2023-08-09T21:45:01.909Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "120e1987-87af-4bae-b7ae-1aef4c854c01",
+        "settings": "Compact View",
+        "created_at": "2023-08-10T00:57:58.524Z",
+        "updated_at": "2023-08-09T23:44:33.185Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "cb91ad8d-da13-4004-99e1-2d9c0b11c5dd",
+        "settings": "Full Screen",
+        "created_at": "2023-08-10T01:16:58.106Z",
+        "updated_at": "2023-08-10T02:25:11.346Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c274a8fd-995d-446d-b02b-0704ea5d5542",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T22:40:45.317Z",
+        "updated_at": "2023-08-10T04:09:33.772Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "8a40f34d-f0fa-447e-9a13-ced4b2e59d51",
+        "settings": "Email",
+        "created_at": "2023-08-09T12:48:21.739Z",
+        "updated_at": "2023-08-10T01:13:37.273Z",
+        "scanner_id": "916c03e8-1a0c-4999-a199-4647e2587968"
+      },
+      {
+        "id": "2d0f381c-883f-4a8d-9b3d-67ebd9d6ec17",
+        "settings": "SMS",
+        "created_at": "2023-08-09T08:23:20.948Z",
+        "updated_at": "2023-08-09T07:09:27.466Z",
+        "scanner_id": "613de590-2a36-4c78-a082-7e47810a9c80"
+      },
+      {
+        "id": "58e27003-35db-4cde-964f-edc7f315ad4f",
+        "settings": "Push Notification",
+        "created_at": "2023-08-09T07:12:03.522Z",
+        "updated_at": "2023-08-09T16:08:32.614Z",
+        "scanner_id": "da3602d5-fd4d-42e9-bf5f-23c4bb5a4647"
+      },
+      {
+        "id": "4d991732-4f33-4b05-a511-cfbf04a1fdb2",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T17:50:38.112Z",
+        "updated_at": "2023-08-09T14:19:20.540Z",
+        "scanner_id": "0f5afd6f-18ec-47a7-88d8-b61ad8b716e4"
+      },
+      {
+        "id": "a10a8159-4296-455b-850e-fb8512bfad76",
+        "settings": "Phone Call",
+        "created_at": "2023-08-09T19:56:48.970Z",
+        "updated_at": "2023-08-09T20:56:03.397Z",
+        "scanner_id": "916c03e8-1a0c-4999-a199-4647e2587968"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "86dac302-fed8-4fe3-b658-ef15277213e4",
+        "email": "Forrest22@hotmail.com",
+        "firstName": "Patrick",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6865520",
+        "tenantId": null
+      },
+      {
+        "reference": "56ca7600-ab34-4ce2-9a39-60b6a2f5c07e",
+        "email": "Garfield.McDermott57@yahoo.com",
+        "firstName": "Harvey",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/604.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "27e0c43b-68d4-4235-92c9-55e96feb4774",
+        "email": "Leonard30@hotmail.com",
+        "firstName": "Rhianna",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75526326",
+        "tenantId": null
+      },
+      {
+        "reference": "e23b8b76-b7bb-43a4-a266-21f96167ad3b",
+        "email": "Janiya0@yahoo.com",
+        "firstName": "Luis",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/585.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "67752153-4c3a-498e-9453-86de7f101196",
+        "email": "Birdie.Graham@gmail.com",
+        "firstName": "Ferne",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/71.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "66db4ab6-344a-44e1-a78b-4f62f1ea6893",
+        "settings": "Default",
+        "created_at": "2023-08-10T02:00:14.180Z",
+        "updated_at": "2023-08-10T02:08:25.537Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d77abe52-4343-4581-a7b8-344a59602ad6",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T16:15:21.539Z",
+        "updated_at": "2023-08-10T00:38:03.429Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "440d79f8-5374-46e8-bb0b-946afc115eaa",
+        "settings": "Custom",
+        "created_at": "2023-08-09T16:33:25.259Z",
+        "updated_at": "2023-08-09T22:36:49.836Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1bc6934b-8a23-4e45-8ef3-21e7ebc6e785",
+        "settings": "Basic",
+        "created_at": "2023-08-10T04:31:43.122Z",
+        "updated_at": "2023-08-10T02:08:55.148Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f0a188b9-051c-4f8d-b7c0-d3167d18f6b2",
+        "settings": "Pro",
+        "created_at": "2023-08-10T00:33:51.433Z",
+        "updated_at": "2023-08-10T01:18:21.702Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "5007a937-1f5f-4f5d-ae33-bbdcfed95484",
+        "data": "AAPL",
+        "created_at": "2023-08-09T12:31:34.340Z",
+        "updated_at": "2023-08-09T23:34:00.970Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fe02ee76-f7e6-4805-9ec1-6f714a757359",
+        "data": "GOOGL",
+        "created_at": "2023-08-09T07:19:26.251Z",
+        "updated_at": "2023-08-09T08:39:21.323Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "18661cce-b422-4baa-8881-ba1282eda08d",
+        "data": "AMZN",
+        "created_at": "2023-08-09T21:34:45.785Z",
+        "updated_at": "2023-08-09T21:55:57.231Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "27ecfe4d-225d-4516-ad64-f23269225762",
+        "data": "MSFT",
+        "created_at": "2023-08-10T03:15:10.320Z",
+        "updated_at": "2023-08-09T10:06:14.019Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "48c3e870-9f89-401a-8632-966ea37b5bbc",
+        "data": "TSLA",
+        "created_at": "2023-08-10T01:34:37.145Z",
+        "updated_at": "2023-08-10T04:41:45.262Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "a6f4d4e4-b448-4de5-9527-1cc593c373df",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-09T11:35:07.733Z",
+        "updated_at": "2023-08-09T23:56:03.353Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d7a0d917-3213-4a56-8c4a-1460e7a942b9",
+        "settings": "Light Mode",
+        "created_at": "2023-08-09T08:06:44.308Z",
+        "updated_at": "2023-08-10T00:05:51.178Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6db8b9e4-8a65-4e59-9e1c-81578b0840d7",
+        "settings": "Compact View",
+        "created_at": "2023-08-09T23:02:07.959Z",
+        "updated_at": "2023-08-09T23:01:15.071Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7801bf3e-2ddf-4ae4-a65b-3798831855cb",
+        "settings": "Full Screen",
+        "created_at": "2023-08-09T15:52:59.089Z",
+        "updated_at": "2023-08-09T14:06:32.525Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6be3f491-38cf-463a-bea0-99ad2b8bb5e1",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T16:39:25.767Z",
+        "updated_at": "2023-08-09T21:47:00.487Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "cd2be989-9031-4dad-8e07-02404f4e9317",
+        "settings": "Email",
+        "created_at": "2023-08-09T16:27:07.490Z",
+        "updated_at": "2023-08-10T04:02:25.991Z",
+        "scanner_id": "440d79f8-5374-46e8-bb0b-946afc115eaa"
+      },
+      {
+        "id": "ad2e7842-69c3-4d92-ac06-5796f850f8f5",
+        "settings": "SMS",
+        "created_at": "2023-08-09T06:21:54.406Z",
+        "updated_at": "2023-08-09T20:06:33.095Z",
+        "scanner_id": "1bc6934b-8a23-4e45-8ef3-21e7ebc6e785"
+      },
+      {
+        "id": "b30637ee-99f8-42c6-9e8a-3cf9aaef912b",
+        "settings": "Push Notification",
+        "created_at": "2023-08-10T05:14:59.843Z",
+        "updated_at": "2023-08-09T10:09:05.962Z",
+        "scanner_id": "f0a188b9-051c-4f8d-b7c0-d3167d18f6b2"
+      },
+      {
+        "id": "934bf18a-dad0-42c0-9ced-910974a6354e",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T09:29:42.111Z",
+        "updated_at": "2023-08-09T08:37:07.418Z",
+        "scanner_id": "440d79f8-5374-46e8-bb0b-946afc115eaa"
+      },
+      {
+        "id": "88e18453-9f26-4132-9fc0-f4dae9f17c4e",
+        "settings": "Phone Call",
+        "created_at": "2023-08-09T15:12:41.103Z",
+        "updated_at": "2023-08-09T09:28:15.668Z",
+        "scanner_id": "d77abe52-4343-4581-a7b8-344a59602ad6"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bdbf8d5e-d173-49df-aa80-948a18470a24",
+        "email": "Virginia.Brakus77@yahoo.com",
+        "firstName": "Theo",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59089456",
+        "tenantId": null
+      },
+      {
+        "reference": "3b0aa24c-227c-4712-98fa-96f69aaa4af3",
+        "email": "Darrel44@yahoo.com",
+        "firstName": "Romaine",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1063.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "78c8949c-52d0-422a-999a-6994017f6cc1",
+        "email": "Alvera54@hotmail.com",
+        "firstName": "Jayne",
+        "lastName": "Tromp-Hand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1188.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b597b66c-d7e8-427f-8844-51223b4c6eb7",
+        "email": "Adolf_Schmeler20@yahoo.com",
+        "firstName": "Jennifer",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79268459",
+        "tenantId": null
+      },
+      {
+        "reference": "df3c7550-d92a-4bb4-b4d5-cf5228574d1c",
+        "email": "Leonora_West@gmail.com",
+        "firstName": "Minerva",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/379.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "1acb1efb-305c-48e8-b783-d96aa6545841",
+        "settings": "Default",
+        "created_at": "2023-08-09T20:43:17.918Z",
+        "updated_at": "2023-08-09T19:26:45.258Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fb3a6018-191f-47a3-bd70-75cc7d1c6a09",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T11:30:48.549Z",
+        "updated_at": "2023-08-09T07:04:11.934Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3487e635-d9f7-4b2a-93be-09c2380a5b90",
+        "settings": "Custom",
+        "created_at": "2023-08-10T00:44:36.311Z",
+        "updated_at": "2023-08-09T10:40:22.409Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a5c85c71-5dc8-4923-8b00-9e7d291bc46b",
+        "settings": "Basic",
+        "created_at": "2023-08-09T16:43:27.936Z",
+        "updated_at": "2023-08-10T01:53:32.059Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "77cd3b44-5321-48ef-a053-954f283aedc1",
+        "settings": "Pro",
+        "created_at": "2023-08-09T14:00:50.854Z",
+        "updated_at": "2023-08-09T21:21:36.847Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "cdcf222f-80fe-4f4e-aa65-93ba1df86e27",
+        "data": "AAPL",
+        "created_at": "2023-08-09T15:10:10.154Z",
+        "updated_at": "2023-08-09T07:58:48.363Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "641c4940-434f-4ce2-abd6-b731a0335bd6",
+        "data": "GOOGL",
+        "created_at": "2023-08-09T09:43:03.903Z",
+        "updated_at": "2023-08-10T00:39:36.147Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "98db111d-b621-4557-878b-9898a5c1c89a",
+        "data": "AMZN",
+        "created_at": "2023-08-09T07:53:51.220Z",
+        "updated_at": "2023-08-09T20:25:15.371Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a1e18f21-8c65-4f49-adfa-8ef9f2502b6a",
+        "data": "MSFT",
+        "created_at": "2023-08-09T08:46:46.904Z",
+        "updated_at": "2023-08-09T18:57:09.793Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "aba0817f-58cf-4a1b-b96f-ddabe5f1794c",
+        "data": "TSLA",
+        "created_at": "2023-08-10T03:50:19.546Z",
+        "updated_at": "2023-08-09T13:59:19.687Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "160e47ec-cd0e-4f6b-ae06-1d7c180be096",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-09T15:08:35.650Z",
+        "updated_at": "2023-08-10T00:24:26.106Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "57d4da97-d4c7-41b2-9b7a-0c76737d724a",
+        "settings": "Light Mode",
+        "created_at": "2023-08-09T05:45:14.818Z",
+        "updated_at": "2023-08-10T04:58:26.796Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a18eb124-97db-4e89-861c-e9e5b6f42a80",
+        "settings": "Compact View",
+        "created_at": "2023-08-10T01:16:12.466Z",
+        "updated_at": "2023-08-09T20:19:54.406Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "61216926-6ae9-4670-ace0-927d3a51f494",
+        "settings": "Full Screen",
+        "created_at": "2023-08-10T00:01:13.784Z",
+        "updated_at": "2023-08-10T02:36:51.784Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7da34ab6-7fce-423c-aeb3-b8ab5d350699",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T13:34:40.801Z",
+        "updated_at": "2023-08-09T23:03:29.822Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "39f29baf-afd6-4362-a5d7-fe86225d27db",
+        "settings": "Email",
+        "created_at": "2023-08-09T13:28:34.889Z",
+        "updated_at": "2023-08-10T04:28:04.678Z",
+        "scanner_id": "1acb1efb-305c-48e8-b783-d96aa6545841"
+      },
+      {
+        "id": "92db35de-87dd-4a20-b77e-02e2b0a412ca",
+        "settings": "SMS",
+        "created_at": "2023-08-09T06:21:37.561Z",
+        "updated_at": "2023-08-10T01:24:32.361Z",
+        "scanner_id": "3487e635-d9f7-4b2a-93be-09c2380a5b90"
+      },
+      {
+        "id": "a63f53dd-5fe4-499c-81d3-ced788270e01",
+        "settings": "Push Notification",
+        "created_at": "2023-08-10T02:34:00.912Z",
+        "updated_at": "2023-08-10T00:40:47.603Z",
+        "scanner_id": "fb3a6018-191f-47a3-bd70-75cc7d1c6a09"
+      },
+      {
+        "id": "987a3d90-0289-4c56-a6bb-61cbcaee550d",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T11:02:12.332Z",
+        "updated_at": "2023-08-09T07:47:46.509Z",
+        "scanner_id": "3487e635-d9f7-4b2a-93be-09c2380a5b90"
+      },
+      {
+        "id": "a0e61440-f056-4616-adeb-fe266bb99af2",
+        "settings": "Phone Call",
+        "created_at": "2023-08-09T08:41:50.094Z",
+        "updated_at": "2023-08-09T11:14:34.785Z",
+        "scanner_id": "1acb1efb-305c-48e8-b783-d96aa6545841"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a3387b4d-61dd-47e9-9dfa-06b18b3dcfd3",
+        "email": "Davon.Kuhlman@gmail.com",
+        "firstName": "Blanche",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/979.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4bf7aa53-2216-45f7-9bed-5627cf80842f",
+        "email": "Lauretta_Predovic@hotmail.com",
+        "firstName": "Zackery",
+        "lastName": "Muller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20033411",
+        "tenantId": null
+      },
+      {
+        "reference": "9ec60ed6-738d-4486-bfaf-6b2b1ebffec3",
+        "email": "Diana.Grimes@gmail.com",
+        "firstName": "Johnnie",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21464863",
+        "tenantId": null
+      },
+      {
+        "reference": "7b11b91a-383c-43bf-bf3c-5f862351ce86",
+        "email": "Magali.Bradtke@yahoo.com",
+        "firstName": "Arely",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4643519",
+        "tenantId": null
+      },
+      {
+        "reference": "2162592d-a7f6-474b-96ed-6938c142bf21",
+        "email": "Jamil96@gmail.com",
+        "firstName": "Darius",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18316463",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "bcf97816-679f-49a1-afff-7eca705368e1",
+        "settings": "Default",
+        "created_at": "2023-08-09T06:24:50.194Z",
+        "updated_at": "2023-08-09T12:39:19.887Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8d6636bc-b07e-4598-bd21-e7091cc4b6a2",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T15:14:21.583Z",
+        "updated_at": "2023-08-09T14:34:25.728Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "188c209e-1b17-4c45-9051-c00620b106b4",
+        "settings": "Custom",
+        "created_at": "2023-08-10T00:36:01.185Z",
+        "updated_at": "2023-08-10T02:41:59.625Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "5742d2a5-c57c-4102-a866-8a9634d777a5",
+        "settings": "Basic",
+        "created_at": "2023-08-09T10:59:58.363Z",
+        "updated_at": "2023-08-10T03:37:13.388Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6d9f6549-44e5-47ed-8ec5-0be6f0a03467",
+        "settings": "Pro",
+        "created_at": "2023-08-09T23:03:04.180Z",
+        "updated_at": "2023-08-09T23:57:48.346Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "4675391d-6a48-4204-aed2-33ba1e083d11",
+        "data": "AAPL",
+        "created_at": "2023-08-10T03:15:48.630Z",
+        "updated_at": "2023-08-09T22:21:13.569Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "99f9a3cf-5ce2-48c2-9e37-ba6981401ffd",
+        "data": "GOOGL",
+        "created_at": "2023-08-09T07:53:35.676Z",
+        "updated_at": "2023-08-09T22:09:07.932Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e784bf74-b377-4fa8-8f14-360b07d95522",
+        "data": "AMZN",
+        "created_at": "2023-08-09T20:58:34.447Z",
+        "updated_at": "2023-08-10T04:09:52.634Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9a3ea49d-631f-4ccb-8a15-5919958195a7",
+        "data": "MSFT",
+        "created_at": "2023-08-09T21:10:52.492Z",
+        "updated_at": "2023-08-09T10:07:03.248Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "29a06699-49d9-4f66-9be9-03200ef7c642",
+        "data": "TSLA",
+        "created_at": "2023-08-09T20:18:18.744Z",
+        "updated_at": "2023-08-09T14:25:59.643Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "b48b9e38-49c0-40ca-9962-3f7a0b55e7fe",
+        "settings": "Dark Mode",
+        "created_at": "2023-08-10T03:56:20.503Z",
+        "updated_at": "2023-08-09T11:36:13.002Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6408b671-f46d-46af-ae30-b22771aaa1c0",
+        "settings": "Light Mode",
+        "created_at": "2023-08-09T19:24:34.536Z",
+        "updated_at": "2023-08-09T16:30:54.638Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a2ccc63f-927b-4b60-b78d-17ec44fd3301",
+        "settings": "Compact View",
+        "created_at": "2023-08-09T11:07:07.424Z",
+        "updated_at": "2023-08-09T11:46:21.945Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "150d3279-c82e-4eeb-98dd-30b7ff3705b6",
+        "settings": "Full Screen",
+        "created_at": "2023-08-09T12:05:43.156Z",
+        "updated_at": "2023-08-09T15:10:41.012Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "943f76af-c784-4415-b4b4-8c57f668b539",
+        "settings": "Custom Layout",
+        "created_at": "2023-08-09T16:56:47.135Z",
+        "updated_at": "2023-08-09T22:57:22.945Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "4ca67125-2cbc-4681-8190-a1581bfedd28",
+        "settings": "Email",
+        "created_at": "2023-08-09T17:14:44.062Z",
+        "updated_at": "2023-08-09T06:09:01.051Z",
+        "scanner_id": "188c209e-1b17-4c45-9051-c00620b106b4"
+      },
+      {
+        "id": "b12417ff-27e0-4d72-b49f-520fc04b3462",
+        "settings": "SMS",
+        "created_at": "2023-08-10T02:28:57.122Z",
+        "updated_at": "2023-08-09T16:12:44.176Z",
+        "scanner_id": "8d6636bc-b07e-4598-bd21-e7091cc4b6a2"
+      },
+      {
+        "id": "a79d6e5f-a34a-446c-a5a5-8246ab1a194a",
+        "settings": "Push Notification",
+        "created_at": "2023-08-10T02:45:07.214Z",
+        "updated_at": "2023-08-09T05:38:27.719Z",
+        "scanner_id": "6d9f6549-44e5-47ed-8ec5-0be6f0a03467"
+      },
+      {
+        "id": "7bed7441-5f3d-47eb-9a2d-746d4eb86778",
+        "settings": "In-App Notification",
+        "created_at": "2023-08-09T15:48:47.530Z",
+        "updated_at": "2023-08-09T19:52:05.423Z",
+        "scanner_id": "6d9f6549-44e5-47ed-8ec5-0be6f0a03467"
+      },
+      {
+        "id": "91d859d9-12b5-4899-8d95-c68e6277b3b7",
+        "settings": "Phone Call",
+        "created_at": "2023-08-10T01:31:32.924Z",
+        "updated_at": "2023-08-10T02:47:06.832Z",
+        "scanner_id": "188c209e-1b17-4c45-9051-c00620b106b4"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bde1fe26-f0ac-4908-add4-dc72fbb19c08",
+        "email": "Anjali6@yahoo.com",
+        "firstName": "Judge",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76375506",
+        "tenantId": null
+      },
+      {
+        "reference": "5fb784e9-08e9-4478-aa64-05a2fb52e2aa",
+        "email": "Arnulfo32@gmail.com",
+        "firstName": "Ubaldo",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16700275",
+        "tenantId": null
+      },
+      {
+        "reference": "adc5f14f-eb91-4238-8194-bed95ceb87a2",
+        "email": "Marianna30@hotmail.com",
+        "firstName": "Clementina",
+        "lastName": "Torp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25319929",
+        "tenantId": null
+      },
+      {
+        "reference": "207203f4-2719-4d94-a4b3-46e3452a1af1",
+        "email": "Brielle_Hagenes@gmail.com",
+        "firstName": "Dalton",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10156535",
+        "tenantId": null
+      },
+      {
+        "reference": "662f41b0-f6d1-4467-8a40-b959a023a444",
+        "email": "Fredrick.Jast45@gmail.com",
+        "firstName": "Ayden",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/575.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "e33d4cd0-6dc8-4890-b5eb-1a5248f84bc3",
+        "settings": "Default",
+        "created_at": "2023-08-09T22:44:22.902Z",
+        "updated_at": "2023-08-09T20:09:03.982Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a11f1c4c-2902-43e1-9ab0-7e27e4f2bf3f",
+        "settings": "Advanced",
+        "created_at": "2023-08-10T01:49:29.596Z",
+        "updated_at": "2023-08-09T07:40:32.284Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0eda33dc-af61-439b-96e8-8848a8f624de",
+        "settings": "Custom",
+        "created_at": "2023-08-10T02:36:25.025Z",
+        "updated_at": "2023-08-10T04:22:05.354Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "bc7289a3-9223-45e5-af14-3b5dab5c78a9",
+        "settings": "Basic",
+        "created_at": "2023-08-09T15:00:04.580Z",
+        "updated_at": "2023-08-10T00:41:11.139Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9bc69f4d-1a7c-4595-ac45-3041857c82db",
+        "settings": "Pro",
+        "created_at": "2023-08-10T05:13:47.685Z",
+        "updated_at": "2023-08-09T17:33:24.943Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "ba022404-93e8-47a6-9015-ad449a07db63",
+        "data": "1234",
+        "created_at": "2023-08-09T08:56:09.548Z",
+        "updated_at": "2023-08-09T20:00:06.710Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "78f3fd9b-334e-4ee3-9e44-e5ce3005dbed",
+        "data": "5678",
+        "created_at": "2023-08-09T22:05:26.622Z",
+        "updated_at": "2023-08-09T07:20:35.400Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "dc76b6c1-1b9d-4772-95b0-21c89a054aec",
+        "data": "9012",
+        "created_at": "2023-08-10T02:12:21.492Z",
+        "updated_at": "2023-08-09T17:41:11.748Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1f48c321-cda6-403f-bff9-225ed0a494e2",
+        "data": "3456",
+        "created_at": "2023-08-10T02:12:33.889Z",
+        "updated_at": "2023-08-09T20:05:40.064Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2ff499af-4325-4e47-b099-fa736f62c1fb",
+        "data": "7890",
+        "created_at": "2023-08-10T01:35:11.488Z",
+        "updated_at": "2023-08-10T00:22:44.194Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "d804c829-cfe1-4fec-8781-a128af7f38af",
+        "settings": "Default",
+        "created_at": "2023-08-10T04:18:24.327Z",
+        "updated_at": "2023-08-09T18:03:37.022Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f791ec1b-ec4a-4957-9eab-188f1fda7f45",
+        "settings": "Minimal",
+        "created_at": "2023-08-10T02:55:32.226Z",
+        "updated_at": "2023-08-09T20:20:13.653Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "153a1f2a-f47d-4fff-8239-8f87eef3b8f6",
+        "settings": "Detailed",
+        "created_at": "2023-08-09T11:03:35.614Z",
+        "updated_at": "2023-08-10T05:18:25.176Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ee2d1139-dc56-414c-90da-e69a97063814",
+        "settings": "Custom",
+        "created_at": "2023-08-09T10:07:12.454Z",
+        "updated_at": "2023-08-09T19:15:13.678Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "72214e36-1395-4082-8ab6-f82d8f3c2008",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T19:27:48.197Z",
+        "updated_at": "2023-08-09T07:33:51.326Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "07723589-b4a4-45c1-8462-10c5772a3994",
+        "settings": "Enabled",
+        "created_at": "2023-08-09T20:40:41.676Z",
+        "updated_at": "2023-08-09T15:59:45.992Z",
+        "scanner_id": "0eda33dc-af61-439b-96e8-8848a8f624de"
+      },
+      {
+        "id": "7febe872-a784-4cfa-956c-d74146c51244",
+        "settings": "Disabled",
+        "created_at": "2023-08-09T07:00:00.662Z",
+        "updated_at": "2023-08-09T17:03:43.664Z",
+        "scanner_id": "e33d4cd0-6dc8-4890-b5eb-1a5248f84bc3"
+      },
+      {
+        "id": "aa8c9c62-6350-4b7a-bc3c-6c9ec06ac758",
+        "settings": "Critical",
+        "created_at": "2023-08-09T09:05:04.914Z",
+        "updated_at": "2023-08-09T18:50:35.783Z",
+        "scanner_id": "a11f1c4c-2902-43e1-9ab0-7e27e4f2bf3f"
+      },
+      {
+        "id": "eac85b30-329e-4441-bb02-f0173495a8ab",
+        "settings": "High",
+        "created_at": "2023-08-09T16:10:02.611Z",
+        "updated_at": "2023-08-09T21:22:43.993Z",
+        "scanner_id": "9bc69f4d-1a7c-4595-ac45-3041857c82db"
+      },
+      {
+        "id": "157bb132-ee11-476d-b25a-957eb16833af",
+        "settings": "Low",
+        "created_at": "2023-08-09T14:32:30.759Z",
+        "updated_at": "2023-08-10T03:30:18.907Z",
+        "scanner_id": "0eda33dc-af61-439b-96e8-8848a8f624de"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5d03e87e-85ed-4f2f-af1a-90d4ca3a1d93",
+        "email": "Jamal27@gmail.com",
+        "firstName": "Carissa",
+        "lastName": "Klein",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36796638",
+        "tenantId": null
+      },
+      {
+        "reference": "87171ed8-dd41-425d-ad12-a6a6287b1f5b",
+        "email": "Letitia_Kuhn33@gmail.com",
+        "firstName": "Erick",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64068410",
+        "tenantId": null
+      },
+      {
+        "reference": "43b2a0e4-a331-4f84-88eb-ed292a2345e7",
+        "email": "Eli16@hotmail.com",
+        "firstName": "Wilburn",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1073.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6eb8534b-d800-4ef3-bfa7-93b1782d2f53",
+        "email": "Sandy97@gmail.com",
+        "firstName": "Jesus",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/218.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "42fa74fa-49d9-4fb6-abf4-0caaa60aee4a",
+        "email": "Adrain.Smith0@yahoo.com",
+        "firstName": "Dorthy",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/821.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "6151de91-4677-4bd8-960f-a5530445d93d",
+        "settings": "Default",
+        "created_at": "2023-08-09T08:52:57.711Z",
+        "updated_at": "2023-08-09T22:01:16.279Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8d47381c-cf6e-464c-b429-ee16a0f3c01d",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T08:27:33.771Z",
+        "updated_at": "2023-08-10T00:28:38.079Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6056c646-a860-471e-929c-cc74e05e1cc2",
+        "settings": "Custom",
+        "created_at": "2023-08-09T07:38:56.789Z",
+        "updated_at": "2023-08-09T17:24:28.040Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "21573e67-2970-4a0c-8851-cf6eb457e8f9",
+        "settings": "Basic",
+        "created_at": "2023-08-09T11:24:47.370Z",
+        "updated_at": "2023-08-09T12:09:35.901Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c395cbdf-c06a-46b2-98fd-3eb3f64132d4",
+        "settings": "Pro",
+        "created_at": "2023-08-10T04:40:06.968Z",
+        "updated_at": "2023-08-09T22:34:38.985Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "38142a73-5dbb-46cd-b9e0-85623d4bd3f1",
+        "data": "1234",
+        "created_at": "2023-08-09T12:28:41.945Z",
+        "updated_at": "2023-08-09T16:28:38.126Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fbdc0b0d-92ae-43e9-99f1-cc255b141195",
+        "data": "5678",
+        "created_at": "2023-08-09T19:18:24.663Z",
+        "updated_at": "2023-08-09T06:03:06.220Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ca3d4923-76dd-4f55-8fd8-278b349014ec",
+        "data": "9012",
+        "created_at": "2023-08-09T11:27:43.753Z",
+        "updated_at": "2023-08-09T14:09:12.071Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "104f294e-b0ef-491f-995a-ec822e473c7c",
+        "data": "3456",
+        "created_at": "2023-08-09T18:12:09.950Z",
+        "updated_at": "2023-08-09T14:54:20.453Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "05f85eaf-8002-4492-95c4-d5abb5968f57",
+        "data": "7890",
+        "created_at": "2023-08-09T23:50:42.671Z",
+        "updated_at": "2023-08-10T04:37:00.381Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "e9db8cec-d802-40e2-b20a-a12c3f824b75",
+        "settings": "Default",
+        "created_at": "2023-08-09T07:40:08.187Z",
+        "updated_at": "2023-08-09T09:23:05.751Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "91cd36f1-1793-4ee4-859c-6d9c309f7ba4",
+        "settings": "Minimal",
+        "created_at": "2023-08-10T02:10:12.318Z",
+        "updated_at": "2023-08-09T17:52:00.393Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "66dec119-29e9-48ec-97fd-4f17d3b6df1b",
+        "settings": "Detailed",
+        "created_at": "2023-08-09T08:16:17.370Z",
+        "updated_at": "2023-08-09T05:26:38.355Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c18cd3a9-3ad1-45dc-a8eb-92dff9be7399",
+        "settings": "Custom",
+        "created_at": "2023-08-09T19:16:54.134Z",
+        "updated_at": "2023-08-09T20:51:36.587Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3f33f7e5-a6e7-4dc1-87d7-5ae55a59f67e",
+        "settings": "Personalized",
+        "created_at": "2023-08-09T09:27:02.424Z",
+        "updated_at": "2023-08-09T07:34:57.986Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "866ba90f-4ec4-425e-8200-a0101efe7272",
+        "settings": "Enabled",
+        "created_at": "2023-08-09T11:16:25.170Z",
+        "updated_at": "2023-08-09T12:20:52.417Z",
+        "scanner_id": "8d47381c-cf6e-464c-b429-ee16a0f3c01d"
+      },
+      {
+        "id": "312d179c-6af6-41c4-8a00-19bb8ff3d6b9",
+        "settings": "Disabled",
+        "created_at": "2023-08-09T15:34:57.047Z",
+        "updated_at": "2023-08-09T17:54:45.944Z",
+        "scanner_id": "21573e67-2970-4a0c-8851-cf6eb457e8f9"
+      },
+      {
+        "id": "e734829f-c232-4a54-b525-aac16f0ca6d8",
+        "settings": "Critical",
+        "created_at": "2023-08-09T23:28:33.109Z",
+        "updated_at": "2023-08-09T20:31:39.932Z",
+        "scanner_id": "c395cbdf-c06a-46b2-98fd-3eb3f64132d4"
+      },
+      {
+        "id": "6e7e6f37-bf54-4120-8f98-09b7e307d9d2",
+        "settings": "High",
+        "created_at": "2023-08-09T07:14:07.623Z",
+        "updated_at": "2023-08-09T22:32:07.472Z",
+        "scanner_id": "21573e67-2970-4a0c-8851-cf6eb457e8f9"
+      },
+      {
+        "id": "9730dae0-1121-4821-bb74-3cca3cbdb55c",
+        "settings": "Low",
+        "created_at": "2023-08-09T15:24:55.367Z",
+        "updated_at": "2023-08-09T16:40:03.421Z",
+        "scanner_id": "8d47381c-cf6e-464c-b429-ee16a0f3c01d"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ff8c8cc6-5699-471d-b6ca-c93879f71604",
+        "email": "Myra_Runolfsson56@gmail.com",
+        "firstName": "Gavin",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18259864",
+        "tenantId": null
+      },
+      {
+        "reference": "cd1f2893-6acf-4672-9173-e2452397df65",
+        "email": "Carey_Osinski91@yahoo.com",
+        "firstName": "Casimir",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67291341",
+        "tenantId": null
+      },
+      {
+        "reference": "b81ab993-d154-4ab9-9db5-e59400ecbe72",
+        "email": "Meghan85@gmail.com",
+        "firstName": "Annabel",
+        "lastName": "Lemke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76549532",
+        "tenantId": null
+      },
+      {
+        "reference": "3b07d742-81b7-4e97-b59d-5d38b7f01cbb",
+        "email": "Letha38@hotmail.com",
+        "firstName": "Aurelia",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57204762",
+        "tenantId": null
+      },
+      {
+        "reference": "1d9378b8-1b95-4ae4-80f6-0d6b1bdeb575",
+        "email": "Ulises68@gmail.com",
+        "firstName": "Guy",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23215970",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "scanner": [
+      {
+        "id": "4f382eea-46e7-4b99-bdba-75e1381c633d",
+        "settings": "Default",
+        "created_at": "2023-08-10T03:44:08.487Z",
+        "updated_at": "2023-08-09T11:52:31.270Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "df7c0ff0-d3f3-4b26-b015-d760245de0eb",
+        "settings": "Advanced",
+        "created_at": "2023-08-09T21:58:21.676Z",
+        "updated_at": "2023-08-09T17:15:36.854Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ceeb47fa-dc27-4899-a859-86c7ab4f4cd6",
+        "settings": "Custom",
+        "created_at": "2023-08-09T17:24:32.872Z",
+        "updated_at": "2023-08-09T17:13:53.387Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "88b66e91-3868-40d9-b00c-9439332ab66c",
+        "settings": "Basic",
+        "created_at": "2023-08-09T22:24:30.427Z",
+        "updated_at": "2023-08-09T09:21:00.735Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ce8dc70b-1516-4a43-9114-1c3eae85b0a0",
+        "settings": "Pro",
+        "created_at": "2023-08-10T04:49:29.699Z",
+        "updated_at": "2023-08-09T19:37:47.198Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "equity_stock": [
+      {
+        "id": "35603697-ff72-4263-9581-82e1e231db63",
+        "data": "1234",
+        "created_at": "2023-08-10T02:25:44.570Z",
+        "updated_at": "2023-08-09T19:48:33.768Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "dc0ff384-d380-4358-b53b-4f8609eb4568",
+        "data": "5678",
+        "created_at": "2023-08-09T08:11:31.629Z",
+        "updated_at": "2023-08-09T10:44:40.790Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c039a05c-92a9-4d8b-a299-6663d95f0978",
+        "data": "9012",
+        "created_at": "2023-08-09T22:47:17.811Z",
+        "updated_at": "2023-08-09T11:15:07.905Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1328d2e6-bf78-4218-ac11-f6405fa4260b",
+        "data": "3456",
+        "created_at": "2023-08-09T23:12:49.394Z",
+        "updated_at": "2023-08-09T05:30:37.765Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d62f0561-c6f9-428b-b84d-3ff5020df28a",
+        "data": "7890",
+        "created_at": "2023-08-09T22:38:33.973Z",
+        "updated_at": "2023-08-10T02:32:35.839Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "b44307da-aa58-43ba-8332-65e080289194",
+        "settings": "Default",
+        "created_at": "2023-08-09T15:14:43.993Z",
+        "updated_at": "2023-08-09T20:59:19.650Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "522eb6a3-cfba-4309-8606-c9bf89670538",
+        "settings": "Minimal",
+        "created_at": "2023-08-09T17:40:21.873Z",
+        "updated_at": "2023-08-09T21:09:53.079Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1b559ba3-fd41-45f2-9857-f29a220cc83f",
+        "settings": "Detailed",
+        "created_at": "2023-08-09T15:08:00.218Z",
+        "updated_at": "2023-08-09T15:36:39.567Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9df85e0c-4673-42f8-a2a3-45868602c414",
+        "settings": "Custom",
+        "created_at": "2023-08-09T22:54:27.193Z",
+        "updated_at": "2023-08-09T07:37:22.960Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "cdef30f9-efa9-4f3e-bab9-82daff5e2b0b",
+        "settings": "Basic",
+        "created_at": "2023-08-09T20:56:06.286Z",
+        "updated_at": "2023-08-09T06:23:46.924Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "842a06b9-b217-4ba4-8ee4-30a03f41e263",
+        "settings": "Enabled",
+        "created_at": "2023-08-09T22:16:02.938Z",
+        "updated_at": "2023-08-09T14:24:09.596Z",
+        "scanner_id": "ceeb47fa-dc27-4899-a859-86c7ab4f4cd6"
+      },
+      {
+        "id": "46b114e6-f5f5-451b-80d4-5eef99eba079",
+        "settings": "Disabled",
+        "created_at": "2023-08-09T20:45:28.583Z",
+        "updated_at": "2023-08-10T04:00:55.562Z",
+        "scanner_id": "88b66e91-3868-40d9-b00c-9439332ab66c"
+      },
+      {
+        "id": "f059cd3b-58a9-4c59-82f8-4e0a546e1e23",
+        "settings": "Critical",
+        "created_at": "2023-08-10T01:32:37.326Z",
+        "updated_at": "2023-08-09T12:38:06.646Z",
+        "scanner_id": "4f382eea-46e7-4b99-bdba-75e1381c633d"
+      },
+      {
+        "id": "7aa8717a-9f6d-4aa7-aba7-7c0c2ad59a57",
+        "settings": "Normal",
+        "created_at": "2023-08-09T09:29:06.536Z",
+        "updated_at": "2023-08-09T20:20:21.063Z",
+        "scanner_id": "ce8dc70b-1516-4a43-9114-1c3eae85b0a0"
+      },
+      {
+        "id": "82b989b4-8819-4f09-b00a-cd1bcad6d990",
+        "settings": "High",
+        "created_at": "2023-08-09T17:16:18.687Z",
+        "updated_at": "2023-08-09T17:13:24.589Z",
+        "scanner_id": "df7c0ff0-d3f3-4b26-b015-d760245de0eb"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f46d9c7f-2bf8-49cd-a3ec-0ad8598c5ae9",
+        "email": "Linnie17@yahoo.com",
+        "firstName": "Nia",
+        "lastName": "Heller-Zieme",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48402142",
+        "tenantId": null
+      },
+      {
+        "reference": "ca473b8c-6cc4-4630-818f-7ae1d222a611",
+        "email": "Jules_Bahringer48@hotmail.com",
+        "firstName": "Jacky",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75456709",
+        "tenantId": null
+      },
+      {
+        "reference": "7fd94c25-df76-4474-b1b4-086e72fb7961",
+        "email": "Wayne_West@gmail.com",
+        "firstName": "Rachelle",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1033.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "25fe94a6-6265-4973-9172-e8094c3c5123",
+        "email": "Wellington82@gmail.com",
+        "firstName": "Ramon",
+        "lastName": "Mohr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25897683",
+        "tenantId": null
+      },
+      {
+        "reference": "411fde41-e02b-4aa1-8ea0-5767951a11b3",
+        "email": "Patrick87@gmail.com",
+        "firstName": "Betty",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1224.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
